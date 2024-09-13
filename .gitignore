@@ -1,0 +1,27 @@
+*.iml
+.gradle
+.idea
+/.idea
+.idea/
+/local.properties
+.DS_Store
+/build
+/release
+captures/
+.externalNativeBuild
+.cxx
+keys.properties
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+local.properties
+Thumbs.db build/
+.navigation
+output.json
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
